@@ -1,2 +1,2 @@
 # Liars-dice
-a virutualizition of the game liar's dice
+a virtualization of the game liar's dice
